@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Git-Aufgabe – Steckbrief (Starter-Repository)
 
 Dieses Starter-Repo enthält eine **HTML-Steckbriefvorlage** und eine `README.md`.
@@ -56,6 +55,3 @@ Sie ist für die Git-Übungsaufgabe gedacht, in der ein `dev`-Branch erstellt,
 - `README.md`: Abschnitt „Änderungsprotokoll“ hinzugefügt
 
 Viel Erfolg!
-=======
-# Git_Basics_Voss
->>>>>>> 495c042734ce7ccde52ef48d0c1d44941957f991
