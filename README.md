@@ -48,4 +48,10 @@ Sie ist für die Git-Übungsaufgabe gedacht, in der ein `dev`-Branch erstellt,
   git status
   ```
 
+## Änderungsprotokoll
+- `index.html`: Name, Klasse/Kurs und E-Mail eingetragen
+- `index.html`: Beispiel-Interessen durch eigene Interessen ersetzt
+- `index.html`: Abschnitt „Über mich“ mit 3 Sätzen ergänzt
+- `README.md`: Abschnitt „Änderungsprotokoll“ hinzugefügt
+
 Viel Erfolg!
